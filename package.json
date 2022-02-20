@@ -14,5 +14,13 @@
   "devDependencies": {
     "nodemon": "^2.0.15"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgazda21/juicebox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cgazda21/juicebox/issues"
+  },
+  "homepage": "https://github.com/cgazda21/juicebox#readme",
   "description": ""
 }
